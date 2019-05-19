@@ -1,0 +1,5 @@
+export const FETCH_USERS = 'FETCH_USERS'
+export const FETCH_USER = 'FETCH_USER'
+export const CLEAR_USER = 'CLEAR_USER'
+export const HANDLE_CHANGE = 'HANDLE_CHANGE'
+export const HANDLE_CHECKBOX_CHANGE = 'HANDLE_CHECKBOX_CHANGE'
